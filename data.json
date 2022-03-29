@@ -2,7 +2,8 @@
     "container":{
         "w" : 8,
         "h" : 2.4,
-        "l" : 2.4
+        "l" : 2.4,
+        "capacity" : 0
     },
     "colis": [
         {
