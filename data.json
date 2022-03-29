@@ -1,0 +1,49 @@
+{
+    "container":{
+        "w" : 8,
+        "h" : 2.4,
+        "l" : 2.4
+    },
+    "colis": [
+        {
+            "label" : "colis1",
+            "w": 0.5,
+            "h": 1.1,
+            "l": 1,
+            "q": 12,
+            "stackingCapacity": -1,
+            "rotations":["base","right-side","front-side"],
+            "priority" : 1
+        },
+        {
+            "label" : "colis2",
+            "w": 0.3,
+            "h": 1,
+            "l": 1.2,
+            "q": 8,
+            "stackingCapacity": -1,
+            "rotations":["base","right-side","front-side"],
+            "priority" : 1
+        },
+        {
+            "label" : "colis3",
+            "w": 0.5,
+            "h": 0.5,
+            "l": 0.5,
+            "q": 4,
+            "stackingCapacity": -1,
+            "rotations":["base","right-side","front-side"],
+            "priority" : 1
+        },
+        {
+            "label" : "colis4",
+            "w": 0.2,
+            "h": 1.2,
+            "l": 0.2,
+            "q": 2,
+            "stackingCapacity": -1,
+            "rotations":["base","right-side","front-side"],
+            "priority" : 1
+        }
+    ]
+}
