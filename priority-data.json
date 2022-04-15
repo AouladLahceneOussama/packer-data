@@ -13,7 +13,7 @@
             "l": 1.2,
             "q": 0,
             "priority": 0,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -25,7 +25,7 @@
             "l": 1.2,
             "q": 0,
             "priority": 0,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -37,7 +37,7 @@
             "l": 0.8,
             "q": 6,
             "priority": 0,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -49,7 +49,7 @@
             "l": 0.5,
             "q": 20,
             "priority": 1,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -61,7 +61,7 @@
             "l": 0.4,
             "q": 27,
             "priority": 3,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -73,7 +73,7 @@
             "l": 0.4,
             "q": 10,
             "priority": 0,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -85,7 +85,7 @@
             "l": 0.4,
             "q": 4,
             "priority": 0,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -97,7 +97,7 @@
             "l": 0.3,
             "q": 0,
             "priority": 0,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
@@ -109,7 +109,7 @@
             "l": 0.31,
             "q": 100,
             "priority": 3,
-            "stackC": -1,
+            "stackingCapacity": -1,
             "rotations": [
                 "base"
             ]
