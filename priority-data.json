@@ -1,0 +1,118 @@
+{
+    "container": {
+        "w": 6.8,
+        "h": 2.6,
+        "l": 2.54,
+        "capacity": 0
+    },
+    "colis": [
+        {
+            "label": "Palette Dalaa VP",
+            "w": 1.2,
+            "h": 1.8,
+            "l": 1.2,
+            "q": 0,
+            "priority": 0,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "Palette The Moussem",
+            "w": 1.2,
+            "h": 1.8,
+            "l": 1.2,
+            "q": 0,
+            "priority": 0,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "Palette Euro Dalaa VP",
+            "w": 1.2,
+            "h": 1.8,
+            "l": 0.8,
+            "q": 6,
+            "priority": 0,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "Caisse Fizz 1.25",
+            "w": 0.5,
+            "h": 0.5,
+            "l": 0.5,
+            "q": 20,
+            "priority": 1,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "Caisse Fizz",
+            "w": 0.6,
+            "h": 0.5,
+            "l": 0.4,
+            "q": 27,
+            "priority": 3,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "Carton moyen Thé",
+            "w": 0.6,
+            "h": 0.4,
+            "l": 0.4,
+            "q": 10,
+            "priority": 0,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "Pack Dalaa VP",
+            "w": 0.6,
+            "h": 0.2,
+            "l": 0.4,
+            "q": 4,
+            "priority": 0,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "Colis Dalaa GP Maxi",
+            "w": 0.6,
+            "h": 0.2,
+            "l": 0.3,
+            "q": 0,
+            "priority": 0,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        },
+        {
+            "label": "PAck 144  Dettol Savon Solide Fresh 70g",
+            "w": 0.28,
+            "h": 0.4,
+            "l": 0.31,
+            "q": 100,
+            "priority": 3,
+            "stackC": -1,
+            "rotations": [
+                "base"
+            ]
+        }
+    ]
+}
