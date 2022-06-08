@@ -6,6 +6,26 @@
         "capacity": 0,
         "unloading": 5
     },
+    "routes":[
+        {
+            "id":1,
+            "from":"Casa",
+            "to":"Rabat",
+            "type":"dechargement"
+        },
+        {
+            "id":2,
+            "from":"Rabat",
+            "to":"Kenitra",
+            "type":"dechargement"
+        },
+        {
+            "id":3,
+            "from":"Kenitra",
+            "to":"Tanger",
+            "type":"dechargement"
+        },
+    ],
     "colis": [
         {
             "label": "Palette Dalaa VP",
